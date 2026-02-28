@@ -4,7 +4,7 @@ Dieser Artikel ist eine analytische Auseinandersetzung mit dem Modell von Mauric
 
 ---
 
-## 1. Strategische Position des Marinelli-Modells {7}
+## 1. Strategische Position des Marinelli-Modells {#7}
 
 Performance SEO ist keine Optimierung für Rankings. Es ist der Aufbau eines Systems, in dem jede Seite ein messbares finanzielles Ergebnis erzeugt: eine konkrete Seite, konkreter Traffic, konkreter Umsatz.
 
@@ -20,7 +20,7 @@ Diese Entscheidungen unterscheiden sich im Umsetzungsmaßstab, nicht in ihrer Lo
 
 ---
 
-## 2. Neun Signale: Mechanismus und Anwendbarkeit {23}
+## 2. Neun Signale: Mechanismus und Anwendbarkeit {#23}
 
 ### Signal 1. Suche ist kein Monopol von Google mehr
 
@@ -92,7 +92,7 @@ Google zeigt zunehmend erweiterte Elemente oberhalb der klassischen Suchergebnis
 
 ---
 
-## 3. Anwendbarkeit auf einen Handwerksbetrieb: strukturierte Bewertung {95}
+## 3. Anwendbarkeit auf einen Handwerksbetrieb: strukturierte Bewertung {#95}
 
 | Signal | Anwendbarkeit | Form der Umsetzung | Bedingung der Nicht-Anwendbarkeit |
 |---|---|---|---|
@@ -112,7 +112,7 @@ Google zeigt zunehmend erweiterte Elemente oberhalb der klassischen Suchergebnis
 
 ---
 
-## 4. Abgrenzung: Infrastruktur und Marketing {115}
+## 4. Abgrenzung: Infrastruktur und Marketing {#115}
 
 Diese Abgrenzung hat praktische Bedeutung:
 
@@ -158,7 +158,7 @@ Das minimal ausreichende Instrument ist die Google Search Console (kostenlos) pl
 
 ---
 
-## 5. Strategische Schlussfolgerung für 2026 {161}
+## 5. Strategische Schlussfolgerung für 2026 {#161}
 
 ### Was sinnvoll implementiert werden sollte
 
@@ -192,7 +192,7 @@ Das minimal ausreichende Instrument ist die Google Search Console (kostenlos) pl
 
 ---
 
-## 6. Grenze der Anwendbarkeit des Modells {195}
+## 6. Grenze der Anwendbarkeit des Modells {#195}
 
 Die Strategie von Marinelli ist in ihrer vollständigen Ausprägung für eCom-Marken und Dienstleistungsunternehmen mit hohem durchschnittlichem Auftragswert und der Möglichkeit, ein Team zu etablieren, konzipiert. Für Handwerksbetriebe ergibt sich folgendes Bild:
 
@@ -206,7 +206,7 @@ Die Gegenposition - "Wir bauen die Website um und schauen, was passiert" - ist d
 
 ---
 
-## Mindestanforderungen an die digitale Infrastruktur für Handwerksbetriebe {209}
+## Mindestanforderungen an die digitale Infrastruktur für Handwerksbetriebe {#209}
 
 Die folgenden Prinzipien ergeben sich logisch aus der Analyse des Modells von Marinelli. Sie sind an die Realität kleiner Unternehmen in Deutschland angepasst (darüber schreibe ich, da ich hier lebe) und erfordern kein spezialisiertes Team.
 
