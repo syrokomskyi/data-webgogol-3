@@ -206,7 +206,7 @@ Die Gegenposition - "Wir bauen die Website um und schauen, was passiert" - ist d
 
 ---
 
-# Mindestanforderungen an die digitale Infrastruktur für Handwerksbetriebe
+## Mindestanforderungen an die digitale Infrastruktur für Handwerksbetriebe {209}
 
 Die folgenden Prinzipien ergeben sich logisch aus der Analyse des Modells von Marinelli. Sie sind an die Realität kleiner Unternehmen in Deutschland angepasst (darüber schreibe ich, da ich hier lebe) und erfordern kein spezialisiertes Team.
 
