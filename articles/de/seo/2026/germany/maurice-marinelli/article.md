@@ -13,7 +13,9 @@ Der Kontext, für den das Modell entwickelt wurde: D2C-Shops, Shopify-Brands, ko
 Drei zentrale strategische Verschiebungen im Modell:
 
 1/ Von der Google-SEO-Monopolstellung hin zu multikanaler Suche - AI-Suchsysteme, Reddit, YouTube, Aggregatoren.
+
 2/ Vom Informationscontent hin zur kommerziellen Architektur als Budgetpriorität.
+
 3/ Von Reputation als Nebeneffekt hin zum Management der Search Reputation als eigenständige Disziplin.
 
 Diese Entscheidungen unterscheiden sich im Umsetzungsmaßstab, nicht in ihrer Logik.
