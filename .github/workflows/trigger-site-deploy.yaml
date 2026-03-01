@@ -1,0 +1,20 @@
+name: Trigger site deploy on content change
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "articles/**"
+  workflow_dispatch: {}
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger site repo deploy
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.CLOUDFLARE_DISPATCH_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/syrokomskyi/webgogol-3/dispatches \
+            -d '{"event_type": "content-updated"}'
