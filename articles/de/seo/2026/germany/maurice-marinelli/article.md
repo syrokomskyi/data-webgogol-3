@@ -1,4 +1,4 @@
-# SEO-Strategie 2026: Was aus dem Performance-SEO-Modell auf kleine Unternehmen übertragbar ist - und wo die Skalierungsgrenze liegt 1
+# SEO-Strategie 2026: Was aus dem Performance-SEO-Modell auf kleine Unternehmen übertragbar ist - und wo die Skalierungsgrenze liegt
 
 Dieser Artikel ist eine analytische Auseinandersetzung mit dem Modell von Maurice Marinelli - ([YouTube-Kanal](https://youtube.com/@mauricemarinelli), [Website](https://findling.de)) - angewendet auf Handwerksbetriebe. Marinelli arbeitet nach der Logik von Performance SEO: Suchtraffic als Vertriebsinstrument mit "messbarem Beitrag zur Marge" statt als "Sichtbarkeitskennzahl". Sein Modell wurde für eCom-Marken mit Teams und Budgets entwickelt. Eine direkte Übertragung auf kleine Unternehmen … ist nicht möglich. Aber. Die zugrunde liegenden Mechanismen sind übertragbar. Ziel dieser Analyse ist es, zu bestimmen, welche dieser Mechanismen unter begrenzten Ressourcen funktionieren, welche lediglich die Illusion nützlicher Aktivität erzeugen - und wo das reale Risiko liegt. Die zentrale These wird am Ende formuliert: Sie erfordert eine Begründung.
 
