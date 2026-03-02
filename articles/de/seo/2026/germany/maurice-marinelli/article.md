@@ -296,6 +296,6 @@ Ist die Illustration zu diesem Artikel jetzt verständlich?
 
 ---
 
-🟦 EN https://linkedin.com/pulse/seo-strategy-2026-what-from-performance-model-small-syrokomskyi-wsrff
+[🟦 EN Linkedin](https://linkedin.com/pulse/seo-strategy-2026-what-from-performance-model-small-syrokomskyi-wsrff)
 
-🟨 DE https://grow.syrokomskyi.com/seo-strategie-2026-was-aus-dem-performance-seo-modell-auf-kleine-unternehmen-ubertragbar-ist-und-wo-die-skalierungsgrenze-liegt
+[🟨 DE Blog](https://grow.syrokomskyi.com/seo-strategie-2026-was-aus-dem-performance-seo-modell-auf-kleine-unternehmen-ubertragbar-ist-und-wo-die-skalierungsgrenze-liegt)

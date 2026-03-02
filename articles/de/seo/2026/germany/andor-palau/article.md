@@ -264,6 +264,6 @@ Wenn eine Website auf chaotischen URLs basiert, Redirects nicht steuerbar sind o
 
 ---
 
-🟨 DE https://linkedin.com/pulse/seo-strategie-2026-f%25C3%25BCr-handwerksbetriebe-wichtig-ist-syrokomskyi-0gtbf
+[🟨 DE Linkedin](https://linkedin.com/pulse/seo-strategie-2026-f%25C3%25BCr-handwerksbetriebe-wichtig-ist-syrokomskyi-0gtbf)
 
-🟦 EN https://grow.syrokomskyi.com/seo-strategy-2026-what-matters-for-craft-businesses-the-position-of-andor-palau
+[🟦 EN Blog](https://grow.syrokomskyi.com/seo-strategy-2026-what-matters-for-craft-businesses-the-position-of-andor-palau)

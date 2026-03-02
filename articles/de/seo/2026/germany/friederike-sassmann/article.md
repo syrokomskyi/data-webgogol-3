@@ -360,6 +360,6 @@ Der zentrale Unterschied: Große Unternehmen benötigen eine komplexe SEO-Maschi
 
 ---
 
-🟦 EN https://linkedin.com/pulse/web-strategy-2026-what-matters-craft-businesses-andrii-syrokomskyi-f5rkf
+[🟦 EN Linkedin](https://linkedin.com/pulse/web-strategy-2026-what-matters-craft-businesses-andrii-syrokomskyi-f5rkf)
 
-🟨 DE https://grow.syrokomskyi.com/web-strategie-2026-was-handwerksbetriebe-lernen-sollten-die-position-von-friederike-sassmann
+[🟨 DE Blog](https://grow.syrokomskyi.com/web-strategie-2026-was-handwerksbetriebe-lernen-sollten-die-position-von-friederike-sassmann)
